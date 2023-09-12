@@ -1,0 +1,5 @@
+.fipeable-card-conteiner{
+    height: 300px;
+    width: 300px;
+    perspective: 10000px;   
+}
